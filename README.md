@@ -1,2 +1,2 @@
-# Homework_JS_clock
+# homework_clock
 時鐘作業
